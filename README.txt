@@ -5,3 +5,9 @@ If you change anything and run the program the generated vertex files must be re
 
 OpenGL Code: 
 In OpenGL main.cpp, there is an enum that can be set to either AssignmentOne, AssignmentTwo or AssignmentThree. It’s important to change the appropriate enum value for testing the assignment codes.
+
+Controls: 
+W,A,S,D – Movement.
+Space – up.
+C – down.
+Mouse movement – view camera. 
